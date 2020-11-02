@@ -1,0 +1,32 @@
+                            
+
+			: : : : : LOGIN DETAILS : : : : : 
+
+	For " ADMIN " login provide the given username and password
+	username : admin
+	Password : admin
+
+
+	For " Customer " login provide the given username and password
+	Customer ID : customer  
+	Passoword : customer
+
+
+	
+			: : : : : PROJECT DETAILS : : : : 
+
+	Admin Module:
+	Admin can add, remove items in menu.
+	Admin can update their profile also.
+
+	
+	Customer Module:
+	Customer can order items from menu.
+	Customer can edit update profile also.
+
+	PHP language is used for completing this project. 
+	For Database you have to create a database (DATABASE NAME:- crc).
+        In which You to put the Database/crc.sql file
+
+
+						#THANK YOU 
